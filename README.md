@@ -16,7 +16,7 @@ Vote For Candy Bot:
 
 Am I Online?
 
-<a href="https://discord.gg/dWUKbsZhBU"><img src="https://discord.c99.nl/widget/theme-5/851969299341901864.png"></a>
+<a href="https://discord.gg/dWUKbsZhBU"><img src="https://discord.c99.nl/widget/theme-1/851969299341901864.png"></a>
 
 
 <!---
